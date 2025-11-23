@@ -15,7 +15,7 @@ const ChatApp = () => {
         contacts.forEach(contact => {
             localStorage.removeItem(`chat-${contact.id}`);
         });
-    }, []);
+    }, [contacts]);
 
     const [theme, setTheme] = useState("light"); // default light
 
