@@ -13,7 +13,7 @@ It includes chat bubbles, sidebar contacts, local message storage, animations, a
 - Clean UI + responsive layout
 
 ## 🚀 Live Demo
-
+<a href="https://himani-chatconnect.netlify.app/" target="_blank" >
 
 ## 📦 Install
 
